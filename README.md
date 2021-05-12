@@ -5,7 +5,6 @@
 ![](http://cdn.pic.mtianyan.cn/blog_img/20201204233849.png)
 
 
-
 # AWS zappa環境構築，lambdaにデプロイ
 ```
 zappa deploy dev
@@ -15,4 +14,3 @@ zappa tail
 
 ## 后台管理URL
 ## api uri
-
