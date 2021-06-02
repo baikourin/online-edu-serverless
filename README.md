@@ -13,4 +13,5 @@ zappa tail
 ```
 
 ## 后台管理URL
+aws > lambda > onlinemooc-dev
 ## api uri
